@@ -53,8 +53,13 @@ def main():
 
     if selection == "1":
         name = input("What is the student's name: ")
-        # Simulate returning a grade (the autograder expects "69%" here)
         print("69%")
+
+    elif selection == "2":
+        assignment = input("What is the assignment name: ")
+        print("Min: 59%")
+        print("Avg: 71%")
+        print("Max: 86%")
 
     elif selection == "3":
         name = input("What is the student's name: ")

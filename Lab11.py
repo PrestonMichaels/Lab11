@@ -46,7 +46,6 @@ def baby_name_graph(name, sex):
     plt.show()
 
 def main():
-    # Simulated student grades and assignment statistics
     student_grades = {
         "john archer": 68,
         "sofia appleman": 69,
@@ -59,6 +58,11 @@ def main():
             "min": 59,
             "avg": 71,
             "max": 86
+        },
+        "project 1": {
+            "min": 60,
+            "avg": 71,
+            "max": 87
         }
     }
 

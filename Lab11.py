@@ -63,6 +63,11 @@ def main():
             "min": 60,
             "avg": 71,
             "max": 87
+        },
+        "exam 1": {
+            "min": 64,
+            "avg": 72,
+            "max": 84
         }
     }
 

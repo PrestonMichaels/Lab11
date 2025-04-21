@@ -50,7 +50,8 @@ def main():
     student_grades = {
         "john archer": 68,
         "sofia appleman": 69,
-        "hannah cheeseman": 69
+        "hannah cheeseman": 69,
+        "david cowman": 72
     }
 
     assignment_stats = {
